@@ -1,5 +1,9 @@
 # ToDoVanillaJs
 
+## Link to the page:
+
+https://to-do-app-in-node.netlify.app
+
 Klasyczna ToDo lista na podstawie VanillaJs. Back-end podpięty i obsługiwany. Zapisuje sesję oraz rejestruje zmiane danych. W pełni obsługiwana gotowa do użycia! 
 
 
